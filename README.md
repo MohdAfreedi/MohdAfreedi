@@ -3,7 +3,7 @@
 🎯 3+ Years of Real-Time Experience | Oracle RAC, RMAN, Data Guard, GoldenGate, OCI, Exadata  
 🌍 Based in Karnataka, India | Available for Remote & On-Site Roles (India + Global)  
 📘 Certified: OCI Foundations | Specializing in Production-Level Oracle & Cloud DBA Ops  
-💰 Actively Targeting: ₹50 LPA+ | Open to US/Europe/Gulf Remote Opportunities
+💰 Actively Targeting: Open to INDIA onsite/hybrid/Remote | US/Europe/Gulf Remote Opportunities
 
 ---
 
